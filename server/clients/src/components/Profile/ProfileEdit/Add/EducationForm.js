@@ -34,7 +34,9 @@ const degree = [
   { degree: "BSC" },
   { degree: "B.com" },
   { degree: "BBA" },
-  { degree: "MBA" },
+  { degree: "MCA" },
+  { degree: "Others" },
+
 ];
 
 const id = "64350344dfae173da0f0e127";
